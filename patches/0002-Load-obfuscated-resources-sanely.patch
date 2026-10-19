@@ -51,7 +51,7 @@ index af93b4447..1aa3f2c1b 100644
 +
 +    const/4 p2, 0x0
 +
-+    invoke-static {p0, v5, p2}, Landroidx/core/content/res/ResourcesCompat;->getDrawable(Landroid/content/res/Resources;ILandroid/content/res/Resources$Theme;)Landroid/graphics/drawable/Drawable;
++    invoke-static {p0, v5, p2}, LI/g$a;->a(Landroid/content/res/Resources;ILandroid/content/res/Resources$Theme;)Landroid/graphics/drawable/Drawable;
 +
 +    move-result-object p0
 +
